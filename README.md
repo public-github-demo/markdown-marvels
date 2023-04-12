@@ -105,6 +105,9 @@ Use <kbd>\\</kbd> to escape markdown: This text is \*not bold\* and \_not italic
 
 :+1: :shipit: :medal_sports: :-1: :100: :trophy: :house:
 
+[GitMoji.dev](https://gitmoji.dev/)
+[Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
 <kbd>Ctrl</kbd> <kbd>Enter</kbd> <kbd>Space</kbd> <kbd>Ctrl</kbd>+<kbd>C</kbd>
 
 
