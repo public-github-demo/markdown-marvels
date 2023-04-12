@@ -27,24 +27,24 @@ https://xpirit.com/
 
 You can drag or drop images to markdown and they will get uploaded automatically.
 
-![octocat](https://user-images.githubusercontent.com/5276337/170288469-b13b7c5c-541c-45e5-990f-f59902f02ab3.png)
+![octocat-1681330030183](https://user-images.githubusercontent.com/16139694/231572680-263326a9-a095-41cf-ae11-040d57ae3bd6.png)
 
 #### Size images
 
 Use `img` to set the with of the image:
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/5276337/170288469-b13b7c5c-541c-45e5-990f-f59902f02ab3.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/16139694/231572680-263326a9-a095-41cf-ae11-040d57ae3bd6.png">
 
 #### Display images depending on theme:
 
-![Light](https://user-images.githubusercontent.com/5276337/170288469-b13b7c5c-541c-45e5-990f-f59902f02ab3.png#gh-light-mode-only)
-![Dark](https://user-images.githubusercontent.com/5276337/170288514-21321111-72b7-4ec2-98e6-b19c9a090721.png#gh-dark-mode-only)
+![Light](https://user-images.githubusercontent.com/16139694/231572680-263326a9-a095-41cf-ae11-040d57ae3bd6.png#gh-light-mode-only)
+![Dark](https://user-images.githubusercontent.com/16139694/231572680-263326a9-a095-41cf-ae11-040d57ae3bd6.png#gh-dark-mode-only)
 
 You can now also use `picture` tag:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/5276337/170288514-21321111-72b7-4ec2-98e6-b19c9a090721.png">
-  <img src="https://user-images.githubusercontent.com/5276337/170288469-b13b7c5c-541c-45e5-990f-f59902f02ab3.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/16139694/231572680-263326a9-a095-41cf-ae11-040d57ae3bd6.png">
+  <img src="https://user-images.githubusercontent.com/16139694/231572680-263326a9-a095-41cf-ae11-040d57ae3bd6.png">
 </picture>
 
 ### Videos
