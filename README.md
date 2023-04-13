@@ -30,6 +30,9 @@ You can drag or drop images to markdown and they will get uploaded automatically
 
 ![octocat-1681330030183](https://user-images.githubusercontent.com/16139694/231572680-263326a9-a095-41cf-ae11-040d57ae3bd6.png)
 
+![image](https://user-images.githubusercontent.com/16139694/231758249-0d273663-c2a5-4340-8a4c-a48530c39513.png)
+
+
 #### Size images
 
 Use `img` to set the with of the image:
